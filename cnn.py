@@ -66,3 +66,4 @@ classifier.fit_generator(training_set,
                          epochs=25,
                          validation_data=test_set,
                          validation_steps=2000/32)
+#classification_st model 1356Z
