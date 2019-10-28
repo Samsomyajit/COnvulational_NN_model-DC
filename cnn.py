@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 19 13:05:05 2018
 
-@author: Rohan
+@author: Sam
 """
 
 #Convolutional Neural Network
